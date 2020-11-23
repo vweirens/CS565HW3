@@ -6,10 +6,14 @@ This file contains a class titled VaughnWeirens, which has two main functions: s
 
 ## Class Attributes
 
-student_Name: a string containing the name of the student (Vaughn Weirens)
-student_Hand: an array to be populated with cards that student_function will determine to either keep or discard.
-card_values: an array of characters containing the values that cards can have
-card_suits: an array of characters containing the suits that cards can have
+### student_Name
+a string containing the name of the student (Vaughn Weirens)
+### student_Hand
+an array to be populated with cards that student_function will determine to either keep or discard.
+### card_values
+an array of characters containing the values that cards can have
+### card_suits
+an array of characters containing the suits that cards can have
 
 ## Class Functions
 
